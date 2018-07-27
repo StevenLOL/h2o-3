@@ -1,5 +1,6 @@
 package hex.tree.gbm;
 
+import hex.Model;
 import hex.genmodel.utils.DistributionFamily;
 import hex.Distribution;
 import hex.ModelCategory;
@@ -590,7 +591,6 @@ public class GBM extends SharedTree<GBMModel,GBMModel.GBMParameters,GBMModel.GBM
     }
 
   }
-
 
   //--------------------------------------------------------------------------------------------------------------------
 
